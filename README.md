@@ -15,9 +15,10 @@ The goal of this assignment is for the student-author (me, Franklin Bueno) to co
 
 BTC-TEST Wallet
 
+This section aims to pair the screenshots (provided below) with the corresponding code and command line commands for the testing of the bitcoin functionality of the wallet.
 
 
-
+![text](/Screenshots/Screenshot%20(1973).png)
 
 
 
