@@ -2,6 +2,8 @@ from bit import wif_to_key
 
 key = wif_to_key("")
 
+## this code taken directly from lecture led by Instructor GS...
+
 ## from class addresses = [""]
 
 ## from class outputs = []
