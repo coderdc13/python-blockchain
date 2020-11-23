@@ -132,3 +132,5 @@ print(key2.get_balance("eth"))
 print(key2.balance_as("usd"))
 
 '''
+
+### NB Most of this code (about 99.999%) from class materials, Instructors GS, AN, and KS, and Tutor, Ms. LT...
