@@ -20,50 +20,79 @@ This section aims to pair the screenshots (provided below) with the correspondin
 
 ![text](/Screenshots/Screenshot%20(1973).png)
 
+1 above
+
 
 
 ![text](/Screenshots/Screenshot%20(1974).png)
 
 
+2
+
+
 ![text](/Screenshots/Screenshot%20(1975).png)
+
+
+3
 
 
 
 ![text](/Screenshots/Screenshot%20(1976).png)
 
 
+4
+
 
 ![text](/Screenshots/Screenshot%20(1977).png)
 
 
 
+
+5
+
 ![text](/Screenshots/Screenshot%20(1978).png)
 
+
+
+6
 
 ![text](/Screenshots/Screenshot%20(1979).png)
 
 
 
+7
+
 ![text](/Screenshots/Screenshot%20(1980).png)
 
 
+
+8
 
 
 ![text](/Screenshots/Screenshot%20(1981).png)
 
 
 
+
+9
+
 ![text](/Screenshots/Screenshot%20(1982).png)
 
+
+
+10
 
 ![text](/Screenshots/Screenshot%20(1983).png)
 
 
 
+11
+
 ![text](/Screenshots/Screenshot%20(1984).png)
 
 
 
+12
 
 
 ETH Wallet
@@ -75,11 +104,21 @@ ETH Wallet
 ![text](/Screenshots/Screenshot%20(2018).png)
 
 
+1
+
 
 ![text](/Screenshots/Screenshot%20(2019).png)
 
 
+2
+
+
+
 ![text](/Screenshots/Screenshot%20(2021).png)
+
+
+
+3
 
 
 
@@ -87,14 +126,30 @@ ETH Wallet
 
 
 
+4
+
+
+
 ![text](/Screenshots/Screenshot%20(2026).png)
+
+
+
+5
 
 
 
 ![text](/Screenshots/Screenshot%20(2027).png)
 
 
+
+6
+
+
 ![text](/Screenshots/Screenshot%20(2028).png)
+
+
+
+7
 
 
 
@@ -102,9 +157,13 @@ ETH Wallet
 
 
 
+8
+
 
 ![text](/Screenshots/Screenshot%20(2030).png)
 
+
+9
 
 
 
