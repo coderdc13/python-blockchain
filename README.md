@@ -22,6 +22,46 @@ This section aims to pair the screenshots (provided below) with the correspondin
 
 
 
+![text](/Screenshots/Screenshot%20(1974).png)
+
+
+![text](/Screenshots/Screenshot%20(1975).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1976).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1977).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1978).png)
+
+
+![text](/Screenshots/Screenshot%20(1979).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1980).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(1981).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1982).png)
+
+
+![text](/Screenshots/Screenshot%20(1983).png)
+
+
+
+![text](/Screenshots/Screenshot%20(1984).png)
+
 
 
 
