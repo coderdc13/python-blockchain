@@ -171,7 +171,7 @@ The rest of the images reflect the attempts of the student-author to complete th
 
 
 
-Ultimately, student-author was instructed to submit the final attempt at the ethereum wallet as-is. The student-author is continuing to seek a solution to this challenge. Furthermore, the student-author will notify the Instructor Corps as soon as he solves this specific challenge.
+Ultimately, student-author was instructed to submit the final attempt at the ethereum wallet as-is. The student-author is continuing to seek a solution to this challenge. Furthermore, the student-author will notify the Instructor Corps as soon as he solves this specific challenge. The student-author is going to redo the entire program, including geth installation, just as for basic python. From the extended office-hours session, it seemed that the problem was in the blockchain. Also, the student-author is going to conduct a comprehensive internet search for this error and will remedy based on the provided solutions and recommendations..
 
 
 
