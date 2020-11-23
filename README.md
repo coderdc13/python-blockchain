@@ -5,6 +5,7 @@
 
 The goal of this assignment is for the student-author (me, Franklin Bueno) to compose a wallet for the trade of both test bitcoin and test ethereum. This wallet is to be made with the wallet from a GitHub source and executed with ethereum geth program. The transactions of the wallet are to be recorded in different tracking programs. Also, the required packages are given in the requirements.txt file.
 
+In terms of the wallet itself, the wallet itself is a creation from https://github.com/dan-da/hd-wallet-derive. This wallet is built with Python script and the software was loaded onto MS VSCode. Loading the wallet from a .py file shows several functions: derive_wallets, priv_key_to_account, create_tx, send_tx. With these functions, the user is supposed to be able to send testnet bitcoin and ethereum from the command line. Also, the user, from the command line, is supposed to be able to see the testnet bitcoin and ethereum accounts. The user is supposed to provide parameters of the kind of coin (BTC or ETH), the intended sending and recipient addresses, and the amount of BTC or ETH. Then the user is supposed to enter the parameters, execute the function, and then observe the exchanges on an online software application that tracks bitcoin and ethereum transactions.
 
 
 
