@@ -1,7 +1,7 @@
 from bit import wif_to_key
 
 key = wif_to_key("cRNMeTebY9hS45npxocksNu8rmJPssE4vZfeTStCboxkH9xzmtVU")
-
+## code taken directly from class exercise led by Instructor GS
 
 print(key.get_balance("btc"))
 print(key.balance_as("usd"))
