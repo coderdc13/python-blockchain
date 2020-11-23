@@ -69,6 +69,45 @@ This section aims to pair the screenshots (provided below) with the correspondin
 ETH Wallet
 
 
+
+
+
+![text](/Screenshots/Screenshot%20(2018).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2019).png)
+
+
+![text](/Screenshots/Screenshot%20(2021).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2025).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2026).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2027).png)
+
+
+![text](/Screenshots/Screenshot%20(2028).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2029).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2030).png)
+
+
+
+
 The student-author was instructed to submit the final attempt at the ethereum wallet as-is.
 
 
