@@ -1,1 +1,10 @@
-This file lists the requirements for leveraging the wallet.
+# Requirements
+
+This file gives the requirements for leveraging the wallet.
+
+-The wallet itself is needed, from https://github.com/dan-da/hd-wallet-derive.
+-In order to use the wallet, the user needs to download a version of PHP.
+-The user needs the bit Python Bitcoin library.
+-The user needs the web3.py Python Ethereum library.
+-The user needs to replace the geth files from earlier nodes (in this repository, the new geth files for both node1 and node2 are provided).
+-The user needs the main .json file for modification (both the original and the replacement are provided in this repository).
